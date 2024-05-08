@@ -1,0 +1,7 @@
+This application provides a RESTful API that enables users to perform various actions, including user account management, book handling, and review creation. Users can register new accounts, log in securely, and express their thoughts on books by writing reviews. Additionally, they have the flexibility to add, update, or delete books as needed.
+
+The Online Book Review Server-Side Application is a platform designed for book enthusiasts to manage their reading experiences effectively. It facilitates book management and review creation while leveraging the power of MySQL as its database system and Sequelize.js as its ORM tool.
+
+To get started with this application, you'll need to ensure that Node.js is installed on your system for server-side scripting capabilities, and MySQL is set up as your database server. Once these prerequisites are met, follow a straightforward installation process: clone the repository, navigate to the project folder, install dependencies using npm, and configure the database connection by setting up your MySQL credentials and other environment variables in the `.env` file. Finally, start the application using the `npm start` command.
+
+For comprehensive guidance on utilizing the available endpoints and understanding the API functionality, refer to the detailed API documentation provided through the link. This documentation offers clear examples and instructions on how to interact with the application's endpoints effectively, ensuring a seamless experience for users keen on sharing their insights and opinions about various books.
